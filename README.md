@@ -1,2 +1,2 @@
-# Python-Project
-Small Database Server
+# CU-python-Assignment
+Code for small client server application. 
